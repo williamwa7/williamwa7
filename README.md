@@ -13,7 +13,7 @@ Desenvolvedor WEB na </br></br>
 
 
 ## 📚 Estudando e trabalhando com as tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,git,github,figma,py,mysql)](https://skillicons.dev) </br></br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,git,github,figma,py,mysql)](https://github.com/williamwa7) </br></br>
 
 
 ## 🌐 Redes Sociais
