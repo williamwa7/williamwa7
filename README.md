@@ -1,16 +1,32 @@
-### Hi there 👋
+# 👋 Olá, sou William!
 
-<!--
-**williamwa7/williamwa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner de perfil](https://avatars.githubusercontent.com/u/122879475?s=200&v=4)
 
-Here are some ideas to get you started:
+## Sobre Mim
+🧔🏻‍♂️ Biólogo, Desenvolvedor WEB na AKVO ESG, Estudante de Desenvolvimento Web Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Morando em Erechim - RS, Brasil
+
+## 💼 Meu Trabalho
+- 👨‍💻 Desenvolvedor WEB na [AKVO-ESG](https://www.akvo-esg.com/)
+
+## 📚 Tecnologias:
+- 🌐 HTML/CSS
+- 🚀 JavaScript
+- ⚛️ React.js
+- 💻 Next.js
+- 🎨 Bootstrap
+- 🐍 Python
+
+## 🌐 Redes Sociais
+- [Instagram](https://www.instagram.com/williamwa7/)
+- [LinkedIn](https://www.linkedin.com/in/williamwa7/)
+- [Website](https://williamwa7.github.io/personalPage/)
+
+
+## 📫 Entre em Contato
+Você pode me contatar por e-mail em [williamwa7@gmail.com].
+
+Feito com ❤️ e código!
+
+![Coração de código](coracao_de_codigo.png)
