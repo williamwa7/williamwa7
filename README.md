@@ -26,4 +26,4 @@ Desenvolvedor WEB na </br></br>
 Você pode me contatar por e-mail em williamwa7@gmail.com.
 
 Feito com ❤️ e código!
-</br>(\///\)
+</br> "\///\"
