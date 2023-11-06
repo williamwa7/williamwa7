@@ -6,7 +6,7 @@
 🌍 Morando em Erechim - RS, Brasil </br></br>
 
 ## 👨‍💻 Trabalhando atualmente como:
-### **Desenvolvedor WEB** na </br></br>
+### **Desenvolvedor WEB** na
 [![AKVO-ESG](https://static.wixstatic.com/media/a7eae7_6a2c29a2429140b2b3a53754cfd9119a~mv2.png/v1/fill/w_183,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AKVO_1.png)](https://www.akvo-esg.com/) </br></br>
 
 
