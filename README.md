@@ -1,7 +1,7 @@
 # 👋 Olá, sou William Alves!
 
 ## Sobre Mim:
-🧔🏻‍♂️ Biólogo, Desenvolvedor WEB na AKVO-ESG, Estudante de Desenvolvimento Web Front-End
+🧔🏻‍♂️ Biólogo com experiência em análise geoespacial e geoprocessamento ambiental. Atualmente estudante de Desenvolvimento Web Front-End, e atuando como Desenvolvedor WEB na [![AKVO-ESG]](https://www.akvo-esg.com/), colaborando no desenvolvimento de um SaaS voltado para a área de sustentabilidade e ESG.
 
 🌍 Morando em Erechim - RS, Brasil </br></br>
 
