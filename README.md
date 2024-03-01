@@ -4,7 +4,7 @@
 
 #### Desenvolvedor WEB | Front-End | React Js | Next Js | Bootstrap | HTML | CSS | Javascript
 
-🧔🏻‍♂️ Graduado em Ciências Biológicas com experiência em análise geoespacial e geoprocessamento ambiental. Atualmente, focado e atuando como Desenvolvedor Web Front-End na [AKVO-ESG](https://www.akvo-esg.com/), colaborando no desenvolvimento de um SaaS voltado para a área de sustentabilidade e ESG. </br></br>
+🧔🏻‍♂️ Graduado em Ciências Biológicas com experiência em análise geoespacial e geoprocessamento ambiental. Atualmente, focado e atuando como Desenvolvedor Web Front-End na [AKVO-ESG](https://www.akvo-esg.com/), colaborando no desenvolvimento de um SaaS voltado para a área de sustentabilidade e ESG. </br>
 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas no IFRS Erechim.
 
 🌍 Morando em Erechim - RS, Brasil </br></br>
